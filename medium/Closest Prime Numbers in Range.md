@@ -15,7 +15,7 @@ The solution uses the **Sieve of Eratosthenes** to efficiently find all prime nu
 3. **Find the closest pair** by iterating through the list of primes.
 4. **Return the closest pair** or `[-1, -1]` if there are fewer than two primes.
 
-## Code
+## Code  
 
 ```python
 from typing import List
